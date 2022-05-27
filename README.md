@@ -45,7 +45,7 @@ Reconator receives all the targets needs to be reconed via a Web Interface and a
 
 ## ⚙️ Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gokulapap/reconator)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Raiders0786/Reconator)
 
 ## 📋 Requirements
 
